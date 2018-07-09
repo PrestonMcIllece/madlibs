@@ -1,0 +1,305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"ima",
+				"imageLogos"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"que",
+				"querySelectorAll"
+			],
+			[
+				"msg",
+				"msgInput"
+			],
+			[
+				"text",
+				"textFieldValidator"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ab",
+				"ab3939"
+			],
+			[
+				"marg",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"h",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: js",
+				"Snippet: Object Value JS"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 56.0,
+		"history":
+		[
+			"git init"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/SearchEngine/helpfulwebsites",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/ConsoleMethods/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/CreateHTMLwithJS/addLi.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/DeleteHTMLwithJS/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/CreateHTMLwithJS/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/SharedBehavior/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/CharacterCountdown/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/HotKeys/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/ToggleFeature/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/VanillaJavascript/Add:Remove_Styles/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/InlineOnclickVEventListener/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/EventListeners/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/QuerySelectors/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/Add:Remove_Classes/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/DOM/index.js",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/Javasript_in_browser/index.js",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/Javasript_in_browser/index.html",
+		"/Users/prestonmcillece/Library/Application Support/Sublime Text 3/Packages/User/html.sublime-snippet",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/NPMModule/DevCamp-js-footer/README.md",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/NPMModule/DevCamp-js-footer/.gitignore",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/NPMModule/DevCamp-js-footer/index.js",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/NPMModule/DevCamp-js-footer/package.json",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/NPMModule/DevCamp-js-footer/TestingFooterApp/src/components/app.js",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/MomentJS/PackageProject/package.json",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/MomentJS/PackageProject/src/bootstrap.js",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/MomentJS/PackageProject/.gitignore",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/NPMModule/DevCamp-js-footer/gitignore",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/ES6/ModuleSection/src/helper.js",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/Error Management/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/Lodash Demos/index1.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/Lodash Demos/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/FlexboxCapstone/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/FlexBasis/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/AlignSelf/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/justifyContent/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/AlignItemsVSAlignContent/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/OrderProperty/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/FlexWrap/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/FlexDirection/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/FlexBox/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Week2/Implementing_HTML_card/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Social_Media/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Social_Media/css/common/main.css",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/Social_Media/css/common/fonts.css",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/TeslaHomePage/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/TeslaHomePage/styles.css",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/Projects/HTML Email/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/PinterestClone/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/PinterestClone/styles.css",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/GoogleHomepage/Solution/styles.css",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/GoogleHomepage/Solution/index.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/GoogleHomepage/google_css.css",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/GoogleHomepage/Google_homepage.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/something.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/CSS/custom/styles.css",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/css_section.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/forms.html",
+		"/Users/prestonmcillece/Downloads/Oct/bootstrap.sh",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/entities.html",
+		"/Users/prestonmcillece/Documents/CodeToSuccess/tables.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package-lock.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
